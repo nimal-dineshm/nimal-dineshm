@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Nimal Dinesh M 👋
 
 **AI/ML Engineer · NLP · MLOps · Reinforcement Learning**
 
